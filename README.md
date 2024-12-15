@@ -1,4 +1,4 @@
-In this assignment, I am tasked to create a spreadsheet modelling using monte carlo situation. The purpose is to identify which will be the most optimial options for decision-making.
+In this assignment, I am tasked to find the most optimal options for the business owner for their AI clinic. Requirement is as follow:
 
 The AI Pre-diagnosis system is an integration of medical devices with Artificial Intelligence (AI).
 It can produce a comprehensive medical report within one minute. 
@@ -17,4 +17,4 @@ There are 4 different discount options that the clinic can adopt:
 • Option 3 - Discount of $10. The patient has a 40% chance of opting for AI Pre-diagnosis. 
 • Option 4 - Discount of $14. The patient has a 65% chance of opting for AI Pre-diagnosis.
 
-For every one hour of running the clinic after 1300 hrs, the clinic has to incur $120. Examine the results and recommend the option that the clinic should adopt with supporting reasonings. 
+For every one hour of running the clinic after 1300 hrs, the clinic has to incur $120. Examine the results and recommend the option that the clinic should adopt with supporting reasonings.
