@@ -11,10 +11,14 @@ The average consultation time for a patient would be 20 mins.
 In order to encourage patients to undergo the AI Pre-diagnosis, the clinic will offer a discount on the medical fees for willing patients.
 The average medical fees (before discount) for each patient is $80. 
 
-There are 4 different discount options that the clinic can adopt: 
-• Option 1 - Discount of $2. The patient has a 20% chance of opting for AI Pre-diagnosis. 
+There are 4 different discount options that the clinic can adopt:
+
+• Option 1 - Discount of $2. The patient has a 20% chance of opting for AI Pre-diagnosis.
+
 • Option 2 - Discount of $4. The patient has a 30% chance of opting for AI Pre-diagnosis. 
+
 • Option 3 - Discount of $10. The patient has a 40% chance of opting for AI Pre-diagnosis. 
+
 • Option 4 - Discount of $14. The patient has a 65% chance of opting for AI Pre-diagnosis.
 
 For every one hour of running the clinic after 1300 hrs, the clinic has to incur $120. Examine the results and recommend the option that the clinic should adopt with supporting reasonings.
